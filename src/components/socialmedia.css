@@ -1,0 +1,10 @@
+.intro{
+    line-height: 1.75;
+    font-size: 2rem ;
+    font-family: 'Archivo', sans-serif;
+    color: darkcyan;
+}
+.intro>span{
+    color: red;
+    font-size: 2.5rem;
+}

@@ -1,0 +1,29 @@
+.new{
+   
+    background-color: darkcyan;
+    border-radius:50px;
+    color: white;
+}
+.btnbtn{
+    position: relative;
+    top: 100px;
+    
+}
+.copy{
+    font-size: 25px;
+}
+@media screen and (max-width:1200px){
+    .copy{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:992px){
+    .copy{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:768px){
+    .copy{
+        font-size: 10px;
+    }
+}
